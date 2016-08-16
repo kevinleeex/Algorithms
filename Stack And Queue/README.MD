@@ -1,9 +1,6 @@
-## Summary
->  Here are some questions about stacks and queues.
+## 概述
+> 这里是有关栈和队列的一些问题
 
-## Contents
+## 目录
 
-1. A stack with function of *getMin()* 
-
-
-
+1. 有*getMin*功能的栈
