@@ -7,9 +7,9 @@ package No1;
  * Create Date Time: 2016-08-16 0:23. <br/>
  * Update Date Time: <br/>
  */
-public class Test {
+public class Test1 {
     public static void main(String[] args) {
-        MyStack1 stack1=new MyStack1();
+        GetMinStack stack1=new GetMinStack();
         stack1.push(10);
         stack1.push(8);
         stack1.push(20);
