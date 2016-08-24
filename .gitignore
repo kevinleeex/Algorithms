@@ -1,3 +1,8 @@
 /Stack And Queue/out
 /Stack And Queue/.idea
 /Stack And Queue/Stacks And Queues.iml
+*.class
+*.xml
+TimeAndSpaceEfficiency/.idea/.name
+TimeAndSpaceEfficiency/out/production/TimeAndSpaceEfficiency/No1/README.md
+TimeAndSpaceEfficiency/TimeAndSpaceEfficiency.iml
